@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer - Stage 03 | Mentorship</h1>
+<h1 align="center"> Explorer - Stage 03 | Avalie.Me</h1>
 
 <p align="center">
 Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -17,7 +17,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="Wiki Repositório" src=".github/preview.png" width="100%">
+  <img alt="Wiki Repositório" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
